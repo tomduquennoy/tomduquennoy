@@ -1,6 +1,5 @@
 # Hi👋 I'm Tom Duquennoy and this is my personnal GitHub profile. 
 
-You can also find me on [Linkedin](https://www.linkedin.com/in/tom-duquennoy/).\
 I'm a French final-year student on a dual-degree at ISAE-Supaero and Sciences Po Paris, specialised in Data Science and International Relations.
 
 ## ✨ What you can find on this page ✨
