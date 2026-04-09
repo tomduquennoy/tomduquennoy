@@ -4,14 +4,14 @@ I'm a French final-year student on a dual-degree at ISAE-Supaero and Sciences Po
 
 ## ✨ What you can find on this page ✨
 
-### Personal Projects
+### [Personal Projects](./personal-projects)
 
 A collection of machine learning and AI projects developed during my engineering studies at **ISAE-SUPAERO**, spanning computer vision, signal processing, graph neural networks, and document forensics :
 - essays : different essays and dissertations wrote in an academic context ;
-- [ecg-TCN](./ecg-TCN) : an implementation of a TCN (Temporal Convolutional Network) model, studying ECGs (electrocardiograms), to detect arrhythmias in patient heartbeats ; 
-- [hackathon-bees](./hackathon-bees) : a 3-day hackathon during which we had to classify 50 classes of bees, using computer vision methods ;
-- [deepfake_detector](./deepfake_detector) : a 7-month R&D project with KPMG, in which we studied how fake documents were produced, and implemented tools to detect it ;
-- [gnn_project](./gnn_project) : introduction to Graph Neural Networks, hands-on exploration of GNN architectures (GCN, GraphSAGE, GAT) applied to node classification and graph-level tasks.
+- [ecg-TCN](./personal-projects/ecg-TCN) : an implementation of a TCN (Temporal Convolutional Network) model, studying ECGs (electrocardiograms), to detect arrhythmias in patient heartbeats ; 
+- [hackathon-bees](./personal-projects/hackathon-bees) : a 3-day hackathon during which we had to classify 50 classes of bees, using computer vision methods ;
+- [deepfake_detector](./personal-projects/deepfake_detector) : a 7-month R&D project with KPMG, in which we studied how fake documents were produced, and implemented tools to detect it ;
+- [gnn_project](./personal-projects/gnn_project) : introduction to Graph Neural Networks, hands-on exploration of GNN architectures (GCN, GraphSAGE, GAT) applied to node classification and graph-level tasks.
 
  
 ## 🛠️ Stack
