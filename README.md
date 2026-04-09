@@ -7,23 +7,24 @@ I'm a French final-year student on a dual-degree at ISAE-Supaero and Sciences Po
 
 ### Personal Projects
 
-This repository contains personal and academical projects, which cover a broad aspect of thematics : 
+A collection of machine learning and AI projects developed during my engineering studies at **ISAE-SUPAERO**, spanning computer vision, signal processing, graph neural networks, and document forensics :
 - essays : different essays and dissertations wrote in an academic context ;
-- ecg_TCN : an implementation of a TCN (Temporal Convolutional Network) model, studying ECGs (electrocardiograms), to detect arrhythmias in patient heartbeats ; 
-- hackathon_bees : a 3-day hackathon during which we had to classify 50 classes of bees, using computer vision methods ;
-- detection_deepfakes : a 7-month R&D project with KPMG, in which we studied how fake documents were produced, and implemented tools to detect it ;
+- [ecg-TCN](./ecg-TCN) : an implementation of a TCN (Temporal Convolutional Network) model, studying ECGs (electrocardiograms), to detect arrhythmias in patient heartbeats ; 
+- [hackathon-bees](./hackathon-bees) : a 3-day hackathon during which we had to classify 50 classes of bees, using computer vision methods ;
+- [deepfake_detector](./deepfake_detector) : a 7-month R&D project with KPMG, in which we studied how fake documents were produced, and implemented tools to detect it ;
+- [gnn_project](./gnn_project) : introduction to Graph Neural Networks, hands-on exploration of GNN architectures (GCN, GraphSAGE, GAT) applied to node classification and graph-level tasks.
+
  
-<!--
-**tomduquennoy/tomduquennoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Stack
 
-Here are some ideas to get you started:
+`Python` · `PyTorch` · `TensorFlow / Keras` · `Hugging Face` · `OpenCV` · `Jupyter`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👤 About & Contacts
+
+**Tom Duquennoy** — Engineering student at ISAE-SUPAERO (SDD / Neuro-IA)  
+
+[GitHub](https://github.com/tomduquennoy) · [LinkedIn](https://linkedin.com/in/tomduquennoy) 
+
+Mail : [tom.duquennoy.pro@gmail.com](tom.duquennoy.pro@gmail.com) · [tom.duquennoy@student.isae-supaero.fr](tom.duquennoy@student.isae-supaero.fr)
