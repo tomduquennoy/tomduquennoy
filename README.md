@@ -2,7 +2,7 @@
 
 I'm a French final-year student on a dual-degree at ISAE-Supaero and Sciences Po Paris, specialised in Data Science and International Relations.
 
-## ✨ What you can find on this page ✨
+## ✨ What you came here to see ✨
 
 ### [Personal Projects](./personal-projects)
 
@@ -13,6 +13,7 @@ A collection of machine learning and AI projects developed during my engineering
 - [deepfake_detector](./personal-projects/deepfake_detector) : a 7-month R&D project with KPMG, in which we studied how fake documents were produced, and implemented tools to detect it ;
 - [gnn_project](./personal-projects/gnn_project) : introduction to Graph Neural Networks, hands-on exploration of GNN architectures (GCN, GraphSAGE, GAT) applied to node classification and graph-level tasks.
 
+Other repositories are mostly academic classes and projects.
  
 ## 🛠️ Stack
 
